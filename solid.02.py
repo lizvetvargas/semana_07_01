@@ -16,7 +16,7 @@ class DescuentoNuevoEstudiante(Descuento):
         return precio * 0.10
 
 
-# Programa principal
+# Programa principal____
 precio = float(input("Ingresa el precio del producto: "))
 
 print("\nTipos de descuento:")
